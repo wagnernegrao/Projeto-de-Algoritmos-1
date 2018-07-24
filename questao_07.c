@@ -14,7 +14,23 @@ Supermercado estoque[TAM];
 void CadastraProduto();
 void ListarProdutos();
 
+void ProdutoSetor(){
+	int i;
+	char setor;
+	printf("\nDigite o nome do setor: ");
+	scanf("%c", &setor);
+	getchar();
+	for(i = 0; i < TAM; i++){
+		if(estoque[i].setor == setor){
+			printf("\nNome: %s", estoque[i].nome);
+			//printf("\nSetor: %c", estoque[i].setor);
+			printf("\nQuantidade: %i", estoque[i].quantidade);
+			printf("\nPreco: %.2f\n", estoque[i].preco);
 
+			printf("\n\n======================\n\n");
+		}
+	}
+}
 int main(){
 	int opcao = 1;
 
@@ -34,6 +50,9 @@ int main(){
 				break;
 			case 2:
 				ListarProdutos();
+				break;
+			case 3:
+				ProdutoSetor();
 				break;
 		}
 	}
