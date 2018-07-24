@@ -23,17 +23,15 @@
 
 ### Questão 04 - Leia um vetor de 16 posições e troque os 8 primeiros valores pelos 8 últimos e vice-e-versa. Escreva ao final o vetor obtido.
 
-### Questão 05 - Considerando o exercício que calcula as bases binária, hexadecimal e octal a partir de um número base 10. Escreva funções para a conversão do número utilizando funções para cada uma dessas bases.
+### Questão 05 - Defina uma estrutura para armazenar os seguintes dados de um livro: nome, autor, isbn e preço. O programa deve solicitar ao usuário o cadastramento de 10 livros. Em seguida, o programa deve solicitar ao usuário um número de ISBN e o programa deve realizar uma pesquisa nos valores cadastrado. Caso o ISBN seja encontrado, o programa deve apresentar ao usuários o outros dados do livro.
 
-### Questão 06 - Defina uma estrutura para armazenar os seguintes dados de um livro: nome, autor, isbn e preço. O programa deve solicitar ao usuário o cadastramento de 10 livros. Em seguida, o programa deve solicitar ao usuário um número de ISBN e o programa deve realizar uma pesquisa nos valores cadastrado. Caso o ISBN seja encontrado, o programa deve apresentar ao usuários o outros dados do livro.
-
-### Questão 07 - Considerando que um registro (estrutura) é um conjunto de variáveis agrupadas que permite agregar tipos de dados diferentes, faça o que se pede nos itens a seguir:
+### Questão 06 - Considerando que um registro (estrutura) é um conjunto de variáveis agrupadas que permite agregar tipos de dados diferentes, faça o que se pede nos itens a seguir:
 
     a. Crie um registro que armazene o nome, o sexo e a idade de uma pessoa a partir de dados inseridos pelo usuário. Em seguida, exiba os dados inseridos.
     b. A partir do registro anterior, crie um vetor para cadastrar 10 indivíduos. 
     c. A partir dos dados inseridos nos registros, verifique o número de usuários do sexo masculino e feminino. Apresente o resultado
 
-### Questão 08 -Seja um algoritmo para controlar os produtos do estoque de um supermercado. Para cada produto, tem-se os seguintes campos:
+### Questão 07 -Seja um algoritmo para controlar os produtos do estoque de um supermercado. Para cada produto, tem-se os seguintes campos:
     nome: string de tamanho 15 
     setor: caracter 
     quantidade: inteiro 
@@ -47,7 +45,7 @@
       e) Definir um bloco de instruções que calcule e devolva o total de capital investido em produtos do supermercado. 
       f) Sair do Programa.
 
-### Questão 09 - Seja um sistema destinado a controlar despesas e dados de um condomínio de apartamentos. Os dados de cada apartamento são armazenados em um vetor de estruturas. Para cada apartamento tem-se os seguintes dados:
+### Questão 08 - Seja um sistema destinado a controlar despesas e dados de um condomínio de apartamentos. Os dados de cada apartamento são armazenados em um vetor de estruturas. Para cada apartamento tem-se os seguintes dados:
     • nome (do responsável)
     • número (do apartamento)
     • área (em m2 )
@@ -63,7 +61,7 @@
       f - Fazer um bloco de instruções para imprimir os dados do apartamento que tem o maior número de moradores. Em caso de haver mais de um, imprimir todos. 
       g - Escrever um bloco de instruções para sair do programa.
 
-### Questão 10 - Seja uma estrutura para descrever os carros de uma determinada revendedora, contendo os seguintes campos:
+### Questão 09 - Seja uma estrutura para descrever os carros de uma determinada revendedora, contendo os seguintes campos:
     Marca: string de tamanho 15
     Ano: inteiro
     Cor: string de tamanho 10
@@ -83,6 +81,6 @@
 ### Estrutura de Dados
 
 
-### Questão 11 -
+### Questão 10 -
 
-### Questão 12 -
+### Questão 11 -
