@@ -82,6 +82,41 @@
 ## Estrutura de Dados
 
 
-### Questão 10 -
+### Questão 10 - Escreva uma função que receba dois vetores de caracteres (duas strings), seus respectivos tamanhos, e um vetor resultado. O programa então deve apresentar a concatenação das duas strings no vetor resultado.
 
-### Questão 11 -
+### Questão 11 - Escreva uma função que receba uma string e informe o número de caracteres dessa string.
+
+### Questão 12 - Escreva um programa em que o usuário informe duas cadeias de caracteres. O programa deve conter uma função para comparar as duas cadeias de caracteres. Essa função deve comparar as duas strings informadas e retornar ao usuário se elas são iguais ou não.
+
+	Observações sobre cadeia de caracteres:
+	1. Lembre-se de sempre inserir um carácter nulo ('\0') ao fim da string
+	2. Não esqueça de reservar espaço na string para armazenar para o valor nulo
+
+### Questão 13 - Escreva uma função chamada subcadeia para extrair uma porcão de caracteres de uma cadeia de caracteres. A função deve receber como parâmetros: a cadeia de caracteres fonte,
+o índice de inicio da subcadeia na cadeia fonte, o numero de caracteres da subcadeia e o vetor subcadeia onde devera armazenar o resultado. 
+	
+	Ex: subcadeia (CienciaComputacao, 3, 3, subc)
+
+	Extrai a subcadeia nci
+	Lembre-se de acrescentar o carácter nulo no final da subcadeia no vetor de subcadeia.
+
+### Questão 14 - Escreva uma função chamada rmv_cadeia para remover um numero de caracteres de uma cadeia de caracteres. A função deve receber três argumentos: a cadeia fonte, o índice de inicio da cadeia fonte e o numero de caracteres a ser removido). 
+	
+	Ex: rmv_cadeia(ParaBel, 5, 3) Resulta em Bel
+
+### Questão 15 - Escreva uma função chamada ins_cadeia para inserir um ou mais caracteres em uma outra cadeia de caracteres. Os argumentos da função devem consistir: cadeia de caracteres principal, cadeia a ser inserida e a posição na cadeia principal onde a string deve ser inserida. 
+	Ex: ins_cadeia(texto, “ufpa”, 5)
+
+### Questão 16 - Utilize as funções desenvolvidas nos exercicios anteriores (inserir, remover, encontrar) e escreva uma função chamada substituir_cadeia. Esta função deve receber como argumentos três cadeias de caracteres. Ex: subs_str(sfonte, s1, s2). A função deve substituir s1 na cadeia sfonte por s2, que possui a string s2. Para isso, a função deve chamar a função encontrar_cadeia para localizar s1 na sfonte. Então, ela deve chamar a função remover_cadeia para remover s1 da fonte. Finalmente, a função deve chamar a função inserir_cadeia para inserir s2 na localização apropriada da sfonte.
+
+#### FILA
+
+### Questão 17 - Desenvolva uma função para retornar o número de NOs de uma lista encadeada.
+
+### Questão 18 - Sejam duas listas encadeadas, desenvolva uma função que recebe duas listas encadeadas e retorne a lista encadeada resultante da concatenação.
+
+### Questão 19 - Altere o código de uma lista encadeada simples para funcionar como uma lista encadeada circular.
+
+#### PILHA
+
+### Questão 20 - crie uma pilha e insira elementos, desenvolva uma função para verifica se possui elementos, busca por índices do elemento da pilha e mostra o elemento, remove um elemento e escreva a pilha.
