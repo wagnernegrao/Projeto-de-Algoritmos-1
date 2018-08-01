@@ -92,8 +92,7 @@
 	1. Lembre-se de sempre inserir um carácter nulo ('\0') ao fim da string
 	2. Não esqueça de reservar espaço na string para armazenar para o valor nulo
 
-### Questão 13 - Escreva uma função chamada subcadeia para extrair uma porcão de caracteres de uma cadeia de caracteres. A função deve receber como parâmetros: a cadeia de caracteres fonte,
-o índice de inicio da subcadeia na cadeia fonte, o numero de caracteres da subcadeia e o vetor subcadeia onde devera armazenar o resultado. 
+### Questão 13 - Escreva uma função chamada subcadeia para extrair uma porcão de caracteres de uma cadeia de caracteres. A função deve receber como parâmetros: a cadeia de caracteres fonte, o índice de inicio da subcadeia na cadeia fonte, o numero de caracteres da subcadeia e o vetor subcadeia onde devera armazenar o resultado. 
 	
 	Ex: subcadeia (CienciaComputacao, 3, 3, subc)
 
