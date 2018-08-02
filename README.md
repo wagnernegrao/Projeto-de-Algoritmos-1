@@ -108,7 +108,6 @@
 
 ### Questão 16 - Utilize as funções desenvolvidas nos exercicios anteriores (inserir, remover, encontrar) e escreva uma função chamada substituir_cadeia. Esta função deve receber como argumentos três cadeias de caracteres. Ex: subs_str(sfonte, s1, s2). A função deve substituir s1 na cadeia sfonte por s2, que possui a string s2. Para isso, a função deve chamar a função encontrar_cadeia para localizar s1 na sfonte. Então, ela deve chamar a função remover_cadeia para remover s1 da fonte. Finalmente, a função deve chamar a função inserir_cadeia para inserir s2 na localização apropriada da sfonte.
 
-#### FILA
 
 ### Questão 17 - Desenvolva uma função para retornar o número de NOs de uma lista encadeada.
 
@@ -116,6 +115,28 @@
 
 ### Questão 19 - Altere o código de uma lista encadeada simples para funcionar como uma lista encadeada circular.
 
-#### PILHA
 
 ### Questão 20 - crie uma pilha e insira elementos, desenvolva uma função para verifica se possui elementos, busca por índices do elemento da pilha e mostra o elemento, remove um elemento e escreva a pilha.
+
+
+### Questão 21 - Crie um fila e insira elementos e posteriormente mostre os elementos adicionados.
+
+
+### Questão 22 - Crie um programa com os ordenadores:
+	1 - Bubble Sort
+	2 - Insertion Sort
+	3 - Selecion Sort
+	4 - Merge Sort
+	5 - Quick Sort
+	6 - Heap Sort
+	7 - Counting Sort
+	8 - Bucket Sort
+
+### Questão 23 - Crie um programa para ordenar caracteres.
+
+### Questão 24 - Ordenar cadeia de caracteres. 
+
+### Questão 25 - Ordenar caracteres e apresenta o tempo para execução.
+
+
+
