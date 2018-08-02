@@ -1,11 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "lista.h"
+#include "questao_17_18_19.h"
 
-/*
-Desenvolva uma função para retornar o número de NOs de uma lista
-encadeada
-*/
 
 int main(){
 	NO *p = NULL;

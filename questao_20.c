@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "stack_function.h"
+#include "questao_20.h"
 
 
 int main(){

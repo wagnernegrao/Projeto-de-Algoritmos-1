@@ -1,12 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "lista.h"
-
-/*
-Sejam duas listas encadeadas, desenvolva uma função que recebe
-duas listas encadeadas e retorne a lista encadeada resultante da
-concatenação
-*/
+#include "questao_17_18_19.h"
 
 int main(){
 	NO *p0 = NULL;

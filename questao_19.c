@@ -1,11 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "lista.h"
-
-/*
- Altere o código de uma lista encadeada simples para funcionar como
-uma lista encadeada circular
-*/
+#include "questao_17_18_19.h"
 
 int main(){
 	NO *p = NULL;
